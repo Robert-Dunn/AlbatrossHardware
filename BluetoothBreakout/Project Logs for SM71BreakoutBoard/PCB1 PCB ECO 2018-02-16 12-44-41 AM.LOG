@@ -1,0 +1,20 @@
+Added Component: Designator=9(17pin_DOUBLE_0.1_header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=9-1
+Added Pin To Net: NetName=Net*_2 Pin=9-2
+Added Pin To Net: NetName=Net*_3 Pin=9-3
+Added Pin To Net: NetName=Net*_4 Pin=9-4
+Added Pin To Net: NetName=Net*_5 Pin=9-5
+Added Pin To Net: NetName=Net*_6 Pin=9-6
+Added Pin To Net: NetName=Net*_7 Pin=9-7
+Added Pin To Net: NetName=Net*_8 Pin=9-8
+Added Pin To Net: NetName=Net*_9 Pin=9-9
+Added Pin To Net: NetName=Net*_10 Pin=9-10
+Added Pin To Net: NetName=Net*_11 Pin=9-11
+Added Pin To Net: NetName=Net*_12 Pin=9-12
+Added Pin To Net: NetName=Net*_13 Pin=9-13
+Added Pin To Net: NetName=Net*_14 Pin=9-14
+Added Pin To Net: NetName=Net*_15 Pin=9-15
+Added Pin To Net: NetName=Net*_16 Pin=9-16
+Added Member To Class: ClassName=BM71BreakoutSchematic Member=Component 9 17pin_DOUBLE_0.1_header
+Added Room: Name=BM71BreakoutSchematic
