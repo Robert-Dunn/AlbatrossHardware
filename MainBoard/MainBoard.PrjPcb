@@ -39,6 +39,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\ComponentLibraries\Other\SolderJumper20mil.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AWRKVWOA
+
+[Document2]
+DocumentPath=..\ComponentLibraries\Other\SolderJumper20mil.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RBBOTFYB
+
+[Document3]
 DocumentPath=..\ComponentLibraries\Headers\CONN-50mil-cortexM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTKVAKPJ
 
-[Document2]
+[Document4]
 DocumentPath=..\ComponentLibraries\Headers\CONN-50mil-10POS-SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWWUYSGS
 
-[Document3]
+[Document5]
 DocumentPath=..\ComponentLibraries\Connectors\3_Pin_ScrewTerm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRVHHPYQ
 
-[Document4]
+[Document6]
 DocumentPath=..\ComponentLibraries\Connectors\3_Pin_ScrewTerm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNBMYCLT
 
-[Document5]
+[Document7]
 DocumentPath=..\ComponentLibraries\Connectors\5_Pin_ScrewTerm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMBQCHEF
 
-[Document6]
+[Document8]
 DocumentPath=..\ComponentLibraries\Headers\4 Pin 100 mil Vertical Header - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQPAMGND
 
-[Document7]
+[Document9]
 DocumentPath=..\ComponentLibraries\Headers\4 Pin 100 mil Vertical Header - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNASMPNX
 
-[Document8]
+[Document10]
 DocumentPath=..\ComponentLibraries\LED\SunLED TricolourLED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVTXCQRK
 
-[Document9]
+[Document11]
 DocumentPath=..\ComponentLibraries\Crystal Oscillator\Foxslf 8MHz Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFBDKMAV
 
-[Document10]
+[Document12]
 DocumentPath=..\ComponentLibraries\Buck\Recom R78E-1.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLAWRUIG
 
-[Document11]
+[Document13]
 DocumentPath=..\ComponentLibraries\Diodes\ON Semi Schottky Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMSJAJPY
 
-[Document12]
+[Document14]
 DocumentPath=..\ComponentLibraries\LED\SunLED TricolourLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVFOXETF
 
-[Document13]
+[Document15]
 DocumentPath=..\ComponentLibraries\LDO 5-3.3\3V3LDO_TPS73633DBVR_SOT23-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNAXYHYC
 
-[Document14]
+[Document16]
 DocumentPath=..\ComponentLibraries\LED\0603 LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDPTOGMG
 
-[Document15]
+[Document17]
 DocumentPath=..\ComponentLibraries\MCU\STMicroelectronics STM32 F4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFBLLSTB
 
-[Document16]
+[Document18]
 DocumentPath=..\ComponentLibraries\Op Amp\Microchip MCP6001UT Op Amp.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXNRANPI
 
-[Document17]
+[Document19]
 DocumentPath=..\ComponentLibraries\Resistor\Generic 0603 Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKJAUJJB
 
-[Document18]
+[Document20]
 DocumentPath=..\ComponentLibraries\Switch\C&K 4 Pin Tactile Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFFYYVOJ
 
-[Document19]
+[Document21]
 DocumentPath=..\ComponentLibraries\Bluetooth Module\BM71BLES1FC2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGNTLNED
 
-[Document20]
+[Document22]
 DocumentPath=..\ComponentLibraries\Capacitor\Generic 0603 Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEOITSAY
 
-[Document21]
+[Document23]
 DocumentPath=..\ComponentLibraries\Capacitor\CAP-0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRBVROYT
 
-[Document22]
+[Document24]
 DocumentPath=..\ComponentLibraries\Connectors\5_Pin_ScrewTerm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DREFCUGD
 
-[Document23]
+[Document25]
 DocumentPath=..\ComponentLibraries\Bluetooth Module\BM71BLES1FC2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFHXJWWY
 
-[Document24]
+[Document26]
 DocumentPath=..\ComponentLibraries\Switch\C&K 4 Pin Tactile Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLRJLKRQ
 
-[Document25]
+[Document27]
 DocumentPath=..\ComponentLibraries\Resistor\Generic 0603 Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJJRUQWW
 
-[Document26]
+[Document28]
 DocumentPath=..\ComponentLibraries\Op Amp\Microchip MCP6001UT Op Amp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMPKCHCB
 
-[Document27]
+[Document29]
 DocumentPath=..\ComponentLibraries\MCU\STMicroelectronics STM32 F4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFRXGGCW
 
-[Document28]
+[Document30]
 DocumentPath=..\ComponentLibraries\Connectors\4_Pin_ScrewTerm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMBTUTKX
 
-[Document29]
+[Document31]
 DocumentPath=..\ComponentLibraries\Connectors\4_Pin_ScrewTerm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTEBLOUY
 
-[Document30]
+[Document32]
 DocumentPath=..\ComponentLibraries\LED\0603 LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTPENQBU
 
-[Document31]
+[Document33]
 DocumentPath=..\ComponentLibraries\LDO 5-3.3\3V3LDO_TPS73633DBVR_SOT23-5.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWBWVNDI
 
-[Document32]
+[Document34]
 DocumentPath=..\ComponentLibraries\Diodes\ON Semi Schottky Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWXTDROM
 
-[Document33]
+[Document35]
 DocumentPath=..\ComponentLibraries\Buck\Recom R78E-1.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHIGIGBD
 
-[Document34]
+[Document36]
 DocumentPath=..\ComponentLibraries\Crystal Oscillator\Foxslf 8MHz Crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHCGHSOR
 
-[Document35]
+[Document37]
 DocumentPath=MCUandExtra.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHYCKOCY
 
-[Document36]
+[Document38]
 DocumentPath=..\ComponentLibraries\Diodes\Zener3V3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JAWBRFPO
 
-[Document37]
+[Document39]
 DocumentPath=..\ComponentLibraries\Diodes\Zener3V3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
