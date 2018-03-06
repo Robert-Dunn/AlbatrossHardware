@@ -1,0 +1,161 @@
+Added Component: Designator=B1(Buzzer_surfacemount)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "668-1204-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C1(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(ON Semi Schottky Diode - MBRM110LT1G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MBRM110LT1GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(ON Semi Schottky Diode - MBRM110LT1G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MBRM110LT1GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P1(6_Pin_ScrewTerm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1297-1112-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2(6_Pin_ScrewTerm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1297-1112-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "2R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(10ohm1Turn_pot)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3314G-1-100ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R5(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "30k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(10k5TurnPot)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3214X-1-103ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R10(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "150R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "150R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MCP6001UT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(MCP6001UT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P2-6
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Pin To Net: NetName=5V Pin=U2-5
+Added Net: Name=5V
+Added Pin To Net: NetName=Buzz Pin=B1-1
+Added Pin To Net: NetName=Buzz Pin=P2-3
+Added Pin To Net: NetName=Buzz Pin=P2-5
+Added Net: Name=Buzz
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R10-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=D2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R5-1
+Added Pin To Net: NetName=NetC2_2 Pin=R11-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R10-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R11-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=R3-1
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R4-2
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=R9-2
+Added Pin To Net: NetName=NetP2_4 Pin=U2-4
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Pin To Net: NetName=NetR5_2 Pin=U1-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-4
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U2-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R9-1
+Added Net: Name=NetR7_2
+Added Class: Name=SensorBoard
+Added Room: Name=SensorBoard
