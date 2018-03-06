@@ -1,0 +1,94 @@
+Change Physical Footprint: Designator=1 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=2 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=3 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=4 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=BM_MODE Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=BM_ON Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=BM_PWR Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=BM_RESET Old Footprint=C&K 4 pin Tactile Switch New Footprint=C&K 4 pin Tactile Switch
+Change Physical Footprint: Designator=C1 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C2 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C3 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C4 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C5 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C6 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C7 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C8 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C9 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C10 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C11 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C12 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C13 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C14 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C15 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C16 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C17 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C18 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=C19 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=CONF Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=D1 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=D2 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=D3 Old Footprint=Zener3V3 New Footprint=Zener3V3
+Change Physical Footprint: Designator=D4 Old Footprint=Zener3V3 New Footprint=Zener3V3
+Change Physical Footprint: Designator=D5 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=D6 Old Footprint=Zener3V3 New Footprint=Zener3V3
+Change Physical Footprint: Designator=D7 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=D8 Old Footprint=Zener3V3 New Footprint=Zener3V3
+Change Physical Footprint: Designator=D9 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=D10 Old Footprint=ON Semi Schottky Diode - MBRM110LT1G New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Physical Footprint: Designator=DCDC_PWR Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=H1 Old Footprint=M4_Hole New Footprint=M4_Hole
+Change Physical Footprint: Designator=H2 Old Footprint=M4_Hole New Footprint=M4_Hole
+Change Physical Footprint: Designator=H3 Old Footprint=M4_Hole New Footprint=M4_Hole
+Change Physical Footprint: Designator=H4 Old Footprint=M4_Hole New Footprint=M4_Hole
+Change Physical Footprint: Designator=J1 Old Footprint=CONN-50mil-10POS-SMD New Footprint=CONN-50mil-10POS-SMD
+Change Physical Footprint: Designator=MCU_ON Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=MCU_PWR Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=MCU_RESET Old Footprint=C&K 4 pin Tactile Switch New Footprint=C&K 4 pin Tactile Switch
+Change Physical Footprint: Designator=P0_0 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P1 Old Footprint=4-Pin Vertical Header New Footprint=4-Pin Vertical Header
+Change Physical Footprint: Designator=P1_2 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P1_3 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P1_6 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P1_7 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P2 Old Footprint=4 Pin Screw Terminal New Footprint=4 Pin Screw Terminal
+Change Physical Footprint: Designator=P2_7 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P3 Old Footprint=4 Pin Screw Terminal New Footprint=4 Pin Screw Terminal
+Change Physical Footprint: Designator=P3_6 Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=P4 Old Footprint=4 Pin Screw Terminal New Footprint=4 Pin Screw Terminal
+Change Physical Footprint: Designator=P5 Old Footprint=4 Pin Screw Terminal New Footprint=4 Pin Screw Terminal
+Change Physical Footprint: Designator=P6 Old Footprint=4-Pin Vertical Header New Footprint=4-Pin Vertical Header
+Change Physical Footprint: Designator=P7 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=R1 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R2 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R3 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R4 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R5 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R6 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R7 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R8 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R9 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R10 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R11 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R12 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R13 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R14 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R15 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R16 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R17 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R18 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R19 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R20 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R21 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R22 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R23 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R24 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=R25 Old Footprint=PCB_GENERIC_SMD_0603 New Footprint=PCB_GENERIC_SMD_0603
+Change Physical Footprint: Designator=RX Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=TX Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=U1 Old Footprint=STM-LQFP100_N New Footprint=STM-LQFP100_N
+Change Physical Footprint: Designator=U2 Old Footprint=BM71BLES1FC2 New Footprint=BM71BLES1FC2
+Change Physical Footprint: Designator=U3 Old Footprint=SOT95P280X145-5N New Footprint=SOT95P280X145-5N
+Change Physical Footprint: Designator=U4 Old Footprint=R78-1.0 New Footprint=R78-1.0
+Change Physical Footprint: Designator=UART_PWR Old Footprint=SMD_0603_LED New Footprint=SMD_0603_LED
+Change Physical Footprint: Designator=X1 Old Footprint=CRYSTAL_8MHZ New Footprint=CRYSTAL_8MHZ

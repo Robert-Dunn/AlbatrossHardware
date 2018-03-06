@@ -1,0 +1,21 @@
+Added Component: Designator=SB8(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB9(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB10(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB11(SB_NO)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR18_2 Pin=SB8-1
+Added Pin To Net: NetName=LED_1 Pin=SB8-2
+Added Pin To Net: NetName=NetR19_2 Pin=SB9-1
+Added Pin To Net: NetName=LED_2 Pin=SB9-2
+Added Pin To Net: NetName=NetR20_2 Pin=SB10-1
+Added Pin To Net: NetName=LED_3 Pin=SB10-2
+Added Pin To Net: NetName=NetR21_2 Pin=SB11-1
+Added Pin To Net: NetName=LED_4 Pin=SB11-2
+Added Member To Class: ClassName=MCUandExtra Member=Component SB8 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB9 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB10 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB11 N/O
+Added Room: Name=MCUandExtra
