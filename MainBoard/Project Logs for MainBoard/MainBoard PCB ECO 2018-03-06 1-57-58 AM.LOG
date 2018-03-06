@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=MODE NewDesignator=BM_MODE
+Change Net Name : Old Net Name=NetMODE_1 New Net Name=NetBM_MODE_1
+Added Room: Name=MCUandExtra

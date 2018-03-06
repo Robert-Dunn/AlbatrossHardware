@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J5 NewDesignator=MCU
+Change Component Designator: OldDesignator=J6 NewDesignator=BM
+Change Component Designator: OldDesignator=SW1 NewDesignator=MCU_RESET
+Change Component Designator: OldDesignator=SW2 NewDesignator=BM_RESET
+Added Room: Name=MCUandExtra

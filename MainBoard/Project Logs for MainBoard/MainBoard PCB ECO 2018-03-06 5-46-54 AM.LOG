@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=BackLeftSense Pin=D11-1
+Removed Pin From Net: NetName=GND Pin=D11-2
+Removed Pin From Net: NetName=BackRightBuzz Pin=P3-2
+Removed Pin From Net: NetName=BackRightSense Pin=P3-3
+Removed Pin From Net: NetName=BackLeftBuzz Pin=P5-2
+Removed Pin From Net: NetName=BackLeftSense Pin=P5-3
+Removed Member From Class: ClassName=MCUandExtra Member=D11
+Change Component Footprint: Designator=D10 Old Footprint=Zener3V3 New Footprint=ON Semi Schottky Diode - MBRM110LT1G
+Change Component Comment : Designator=D10 Old Comment=Zener3V3 New Comment=ONSEMI_MBRM110LT1G
+Change component parameters: Designator = "D10"; Footprint = "ON Semi Schottky Diode - MBRM110LT1G"; UniqueID = "\PDHURIJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MBRM110LT1GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(Zener3V3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BackLeftSense Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=BackRightSense Pin=P3-2
+Added Pin To Net: NetName=BackRightBuzz Pin=P3-3
+Added Pin To Net: NetName=BackLeftSense Pin=P5-2
+Added Pin To Net: NetName=BackLeftBuzz Pin=P5-3
+Added Member To Class: ClassName=MCUandExtra Member=Component D3 Zener3V3
+Added Room: Name=MCUandExtra

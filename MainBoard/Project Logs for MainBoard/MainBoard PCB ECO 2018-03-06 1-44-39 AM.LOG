@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D19 NewDesignator=MCU_PWR
+Change Component Designator: OldDesignator=D21 NewDesignator=DCDC
+Change Component Designator: OldDesignator=D22 NewDesignator=UART_PWR
+Change Component Designator: OldDesignator=J2 NewDesignator=CONF
+Change Component Designator: OldDesignator=J3 NewDesignator=RX
+Change Component Designator: OldDesignator=J4 NewDesignator=TX
+Added Room: Name=MCUandExtra

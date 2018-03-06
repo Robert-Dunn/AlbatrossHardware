@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetDCDC_PWR_1 Pin=DCDC_PWR-1
+Added Pin To Net: NetName=NetDCDC_PWR_1 Pin=R22-2
+Added Net: Name=NetDCDC_PWR_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=UART_PWR-1
+Added Net: Name=NetR23_2
+Added Room: Name=MCUandExtra

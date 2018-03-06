@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=BM NewDesignator=BM_ON
+Change Component Designator: OldDesignator=MCU NewDesignator=MCU_ON
+Added Room: Name=MCUandExtra

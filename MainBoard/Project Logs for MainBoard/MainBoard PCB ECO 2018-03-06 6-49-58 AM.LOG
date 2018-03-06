@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FrontRightSense Pin=U1-30
+Removed Pin From Net: NetName=BackRightSense Pin=U1-31
+Added Pin To Net: NetName=BackRightSense Pin=U1-30
+Added Pin To Net: NetName=FrontRightSense Pin=U1-31
+Added Room: Name=MCUandExtra

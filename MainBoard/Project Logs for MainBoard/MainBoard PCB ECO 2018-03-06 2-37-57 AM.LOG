@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Change Component Designator: OldDesignator=DCDC NewDesignator=DCDC_PWR
+Added Pin To Net: NetName=3V3_MCU Pin=J1-1
+Added Pin To Net: NetName=3V3_MCU Pin=R1-2
+Added Pin To Net: NetName=3V3_BM Pin=R3-1
+Added Member To Class: ClassName=MCUandExtra Member=Component X1 XTAL
+Added Room: Name=MCUandExtra

@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=P1_7
+Change Component Designator: OldDesignator=D12 NewDesignator=P0_2
+Change Component Designator: OldDesignator=D13 NewDesignator=P1_2
+Change Component Designator: OldDesignator=D14 NewDesignator=P1_3
+Change Component Designator: OldDesignator=D15 NewDesignator=P1_6
+Change Component Designator: OldDesignator=D16 NewDesignator=P2_7
+Change Component Designator: OldDesignator=D17 NewDesignator=P0_0
+Change Component Designator: OldDesignator=D18 NewDesignator=P3_6
+Change Component Designator: OldDesignator=D25 NewDesignator=LED1
+Change Component Designator: OldDesignator=D26 NewDesignator=LED2
+Change Component Designator: OldDesignator=D27 NewDesignator=LED3
+Change Component Designator: OldDesignator=D28 NewDesignator=LED4
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetP1_7_1
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetP0_2_1
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetP1_2_1
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetP1_3_1
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetP1_6_1
+Change Net Name : Old Net Name=NetD16_1 New Net Name=NetP2_7_1
+Change Net Name : Old Net Name=NetD17_1 New Net Name=NetP0_0_1
+Change Net Name : Old Net Name=NetD18_1 New Net Name=NetP3_6_1
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetBM_PWR_1
+Change Net Name : Old Net Name=NetD25_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetD26_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetD27_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetD28_1 New Net Name=NetLED4_1
+Added Room: Name=MCUandExtra

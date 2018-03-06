@@ -1,0 +1,19 @@
+Added Component: Designator=U2(BM71BLES1FC2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=P1_2 Pin=U2-3
+Added Pin To Net: NetName=P1_3 Pin=U2-4
+Added Pin To Net: NetName=P1_7 Pin=U2-5
+Added Pin To Net: NetName=P1_6 Pin=U2-6
+Added Pin To Net: NetName=BM71_RX Pin=U2-7
+Added Pin To Net: NetName=BM71_TX Pin=U2-8
+Added Pin To Net: NetName=P3_6 Pin=U2-9
+Added Pin To Net: NetName=RST_BM71 Pin=U2-10
+Added Pin To Net: NetName=P0_0 Pin=U2-11
+Added Pin To Net: NetName=P0_2/LED Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=3V3_BM Pin=U2-14
+Added Pin To Net: NetName=P2_7 Pin=U2-15
+Added Pin To Net: NetName=CONFIG Pin=U2-16
+Added Member To Class: ClassName=MCUandExtra Member=Component U2 BM71BLES1FC2
+Added Room: Name=MCUandExtra

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=BM_PWR NewDesignator=D20
+Change Component Designator: OldDesignator=LED1 NewDesignator=D25
+Change Component Designator: OldDesignator=LED2 NewDesignator=D26
+Change Component Designator: OldDesignator=LED3 NewDesignator=D27
+Change Component Designator: OldDesignator=LED4 NewDesignator=D28
+Change Component Designator: OldDesignator=P0_0 NewDesignator=D17
+Change Component Designator: OldDesignator=P1_2 NewDesignator=D13
+Change Component Designator: OldDesignator=P1_3 NewDesignator=D14
+Change Component Designator: OldDesignator=P1_6 NewDesignator=D15
+Change Component Designator: OldDesignator=P1_7 NewDesignator=D3
+Change Component Designator: OldDesignator=P2_7 NewDesignator=D16
+Change Component Designator: OldDesignator=P3_6 NewDesignator=D18
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD20_1 Pin=R25-2
+Added Net: Name=NetD20_1
+Added Room: Name=MCUandExtra
