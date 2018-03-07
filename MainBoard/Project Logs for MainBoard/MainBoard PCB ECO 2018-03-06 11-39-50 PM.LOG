@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=FrontRightSense Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=BackRightSense Pin=D7-1
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=FrontLeftSense Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=BackLeftSense Pin=D10-1
+Removed Pin From Net: NetName=GND Pin=D10-2
+Removed Member From Class: ClassName=MCUandExtra Member=D5
+Removed Member From Class: ClassName=MCUandExtra Member=D7
+Removed Member From Class: ClassName=MCUandExtra Member=D9
+Removed Member From Class: ClassName=MCUandExtra Member=D10
+Added Component: Designator=SB1(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB2(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB4(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB5(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB6(SB_NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB7(SB_NO)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR5_1 Pin=SB1-1
+Added Pin To Net: NetName=P1_2 Pin=SB1-2
+Added Pin To Net: NetName=NetR7_1 Pin=SB2-1
+Added Pin To Net: NetName=P1_3 Pin=SB2-2
+Added Pin To Net: NetName=NetR4_1 Pin=SB4-1
+Added Pin To Net: NetName=P1_7 Pin=SB4-2
+Added Pin To Net: NetName=NetR12_1 Pin=SB5-1
+Added Pin To Net: NetName=P2_7 Pin=SB5-2
+Added Pin To Net: NetName=NetR13_1 Pin=SB6-1
+Added Pin To Net: NetName=P0_0 Pin=SB6-2
+Added Pin To Net: NetName=NetR14_1 Pin=SB7-1
+Added Pin To Net: NetName=P3_6 Pin=SB7-2
+Added Member To Class: ClassName=MCUandExtra Member=Component SB1 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB2 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB4 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB5 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB6 N/O
+Added Member To Class: ClassName=MCUandExtra Member=Component SB7 N/O
+Added Room: Name=MCUandExtra
