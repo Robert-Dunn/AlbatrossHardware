@@ -837,69 +837,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJQJRNMO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MainBoard\Design Rule Check - MainBoard.html
+[Document48]
+DocumentPath=..\ComponentLibraries\LDO 5-3.3\3.3_500mA_TI.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SNDTMTLA
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for MainBoard\MainBoard.DRR
+[Document49]
+DocumentPath=..\ComponentLibraries\LDO 5-3.3\3.3_500mA_TI.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for MainBoard\MainBoard.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for MainBoard\MainBoard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for MainBoard\MainBoard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for MainBoard\MainBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for MainBoard\MainBoard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for MainBoard\MainBoard.TXT
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EDKVDRIC
 
 [Configuration1]
 Name=Sources
