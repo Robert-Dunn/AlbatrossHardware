@@ -1,0 +1,78 @@
+Added Component: Designator=D3(SMD_0603_LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(PCB_MLX_MICROFIT_3X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(4-Pin Vertical Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No."; Value = "PPPC041LFBN-RC"; VariantName = "[No Variations]"
+Added Component: Designator=P4(4-Pin Vertical Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No."; Value = "PPPC041LFBN-RC"; VariantName = "[No Variations]"
+Added Component: Designator=P5(4-Pin Vertical Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No."; Value = "PPPC041LFBN-RC"; VariantName = "[No Variations]"
+Added Component: Designator=R12(PCB_GENERIC_SMD_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "500R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=Buzz Pin=P2-5
+Added Pin To Net: NetName=5V Pin=P2-6
+Added Pin To Net: NetName=NetC1_2 Pin=P3-3
+Added Pin To Net: NetName=NetC2_2 Pin=P3-4
+Added Pin To Net: NetName=NetR7_1 Pin=P4-3
+Added Pin To Net: NetName=NetR6_2 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=5V Pin=R12-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=S+ LP
+Change Net Name : Old Net Name=NetC2_2 New Net Name=S- LP
+Change Net Name : Old Net Name=NetR6_2 New Net Name=S-Pregain
+Change Net Name : Old Net Name=NetR7_1 New Net Name=ResTop-G
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R12-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=ResBot-G Pin=P2-4
+Added Pin To Net: NetName=ResBot-G Pin=P4-4
+Added Pin To Net: NetName=ResBot-G Pin=P5-2
+Added Pin To Net: NetName=ResBot-G Pin=R9-2
+Added Pin To Net: NetName=ResBot-G Pin=U2-4
+Added Net: Name=ResBot-G
+Added Pin To Net: NetName=ResBot-S Pin=P1-5
+Added Pin To Net: NetName=ResBot-S Pin=P4-2
+Added Pin To Net: NetName=ResBot-S Pin=R4-2
+Added Net: Name=ResBot-S
+Added Pin To Net: NetName=ResTop-S Pin=P1-4
+Added Pin To Net: NetName=ResTop-S Pin=P4-1
+Added Pin To Net: NetName=ResTop-S Pin=R3-1
+Added Net: Name=ResTop-S
+Added Pin To Net: NetName=S+ Pin=P1-2
+Added Pin To Net: NetName=S+ Pin=P3-1
+Added Pin To Net: NetName=S+ Pin=R10-1
+Added Net: Name=S+
+Added Pin To Net: NetName=S- Pin=P1-3
+Added Pin To Net: NetName=S- Pin=P3-2
+Added Pin To Net: NetName=S- Pin=R11-1
+Added Net: Name=S-
+Added Member To Class: ClassName=SensorBoard Member=Component D3 LED
+Added Member To Class: ClassName=SensorBoard Member=Component H1 Hole M4
+Added Member To Class: ClassName=SensorBoard Member=Component H2 Hole M4
+Added Member To Class: ClassName=SensorBoard Member=Component H3 Hole M4
+Added Member To Class: ClassName=SensorBoard Member=Component H4 Hole M4
+Added Member To Class: ClassName=SensorBoard Member=Component P1 Screw Term
+Added Member To Class: ClassName=SensorBoard Member=Component P2 SCH_MLX_MICROFIT_3X2
+Added Member To Class: ClassName=SensorBoard Member=Component P3 4-Pin Vertical Header
+Added Member To Class: ClassName=SensorBoard Member=Component P4 4-Pin Vertical Header
+Added Member To Class: ClassName=SensorBoard Member=Component P5 4-Pin Vertical Header
+Added Member To Class: ClassName=SensorBoard Member=Component R12 SCH_GENERIC_RESISTOR_0603
+Added Room: Name=SensorBoard
