@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=NetC16_1 Pin=U3-3
+Removed Pin From Net: NetName=3V3 Pin=U3-5
+Removed Member From Class: ClassName=MCUandExtra Member=C15
+Change Component Footprint: Designator=U3 Old Footprint=SOT95P280X145-5N New Footprint=3.3V_500mA_LDO
+Change Component Comment : Designator=U3 Old Comment=3.3V LDO New Comment=3.3V_500mA_LDO
+Change component parameters: Designator = "C16"; Footprint = "PCB_GENERIC_SMD_0603"; UniqueID = "\XCLTENPY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "PCB_GENERIC_SMD_0603"; UniqueID = "\BURNTAWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "3.3V_500mA_LDO"; UniqueID = "\UFKEBIOY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-13424-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=H1(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(M4_Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(PCB_MLX_MICROFIT_3X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(PCB_MLX_MICROFIT_3X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(PCB_MLX_MICROFIT_3X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P5(PCB_MLX_MICROFIT_3X2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=FrontRightSense Pin=P2-4
+Added Pin To Net: NetName=FrontRightBuzz Pin=P2-5
+Added Pin To Net: NetName=5V_DCDC Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=BackRightSense Pin=P3-4
+Added Pin To Net: NetName=BackRightBuzz Pin=P3-5
+Added Pin To Net: NetName=5V_DCDC Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=FrontLeftSense Pin=P4-4
+Added Pin To Net: NetName=FrontLeftBuzz Pin=P4-5
+Added Pin To Net: NetName=5V_DCDC Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=BackLeftSense Pin=P5-4
+Added Pin To Net: NetName=BackLeftBuzz Pin=P5-5
+Added Pin To Net: NetName=5V_DCDC Pin=P5-6
+Added Pin To Net: NetName=3V3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Member To Class: ClassName=MCUandExtra Member=Component H1 Hole M4
+Added Member To Class: ClassName=MCUandExtra Member=Component H2 Hole M4
+Added Member To Class: ClassName=MCUandExtra Member=Component H3 Hole M4
+Added Member To Class: ClassName=MCUandExtra Member=Component H4 Hole M4
+Added Member To Class: ClassName=MCUandExtra Member=Component P2 SCH_MLX_MICROFIT_3X2
+Added Member To Class: ClassName=MCUandExtra Member=Component P3 SCH_MLX_MICROFIT_3X2
+Added Member To Class: ClassName=MCUandExtra Member=Component P4 SCH_MLX_MICROFIT_3X2
+Added Member To Class: ClassName=MCUandExtra Member=Component P5 SCH_MLX_MICROFIT_3X2
+Added Room: Name=MCUandExtra
