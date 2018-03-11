@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=BM_MODE NewDesignator=BM_MODE (P0_2)
+Change Net Name : Old Net Name=NetBM_MODE_1 New Net Name=NetBM_MODE (P0_2)_1
+Added Member To Class: ClassName=MCUandExtra Member=Component P4 SCH_MLX_MICROFIT_3X2
+Added Room: Name=MCUandExtra
