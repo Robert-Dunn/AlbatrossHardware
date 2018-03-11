@@ -751,6 +751,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBLGTNJY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SensorBoard\Design Rule Check - SensorBoard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -870,7 +874,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
